@@ -24,9 +24,9 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	/* hamburger menu */
+	/* hamburger menu
 	position: relative;
-	display: none; 
+	display: none;  */
 }
 
 article, aside, details, figcaption, figure,
