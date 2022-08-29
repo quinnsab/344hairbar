@@ -116,7 +116,7 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
-/* hamburger menu */
+/* hamburger menu
 
 div.mobile {
     font-size: 140%;
@@ -128,7 +128,7 @@ div.mobile {
 div.mobile a:link, div.mobile a:visited {
     color: #000;
     text-decoration: none;
-}
+} */
 
 /* Type */
 
