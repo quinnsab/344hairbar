@@ -8094,7 +8094,7 @@ input, select, textarea {
 
 		.items.style3.small > * {
 			padding: 0.65625rem 0.65625rem 0.1rem 0.65625rem ;
-			width: 15%;
+			width: 33.33333%;
 		}
 
 		@media screen and (max-width: 1280px) {
