@@ -339,12 +339,3 @@
 						});
 
 })(jQuery);
-// // hamburger
-// function toggleNav() {
-//     var state = document.getElementsByTagName("nav")[0].style.display;
-//     if (state == 'block') {
-//         document.getElementsByTagName("nav")[0].style.display = 'none';
-//     } else {
-//         document.getElementsByTagName("nav")[0].style.display = 'block';
-//     }
-// }
